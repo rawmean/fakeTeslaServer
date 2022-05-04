@@ -1,45 +1,25 @@
 {
-    "response": [
-        {
-            "id": 1492931546942608,
-            "vehicle_id": 1377277841,
-            "vin": "5YJSA1E29JF276959",
-            "display_name": "Gizmo",
-            "option_codes": "AD15,MDL3,PBSB,RENA,BT37,ID3W,RF3G,S3PB,DRLH,DV2W,W39B,APF0,COUS,BC3B,CH07,PC30,FC3P,FG31,GLFR,HL31,HM31,IL31,LTPB,MR31,FM3B,RS3H,SA3P,STCP,SC04,SU3C,T3CA,TW00,TM00,UT3P,WR00,AU3P,APH3,AF00,ZCST,MI00,CDM0",
-            "color": null,
-            "access_type": "OWNER",
-            "tokens": [
-                "4ca9e41bfab81632",
-                "344bd42b2672c728"
-            ],
-            "state": "asleep",
-            "in_service": false,
-            "id_s": "1492931546942608",
-            "calendar_enabled": true,
-            "api_version": 34,
-            "backseat_token": null,
-            "backseat_token_updated_at": null
-        },
-        {
-            "id": 1492931176629701,
-            "vehicle_id": 1155866308,
-            "vin": "5YJ3E1EB8JF129864",
-            "display_name": "Pride",
-            "option_codes": "AD15,MDL3,PBSB,RENA,BT37,ID3W,RF3G,S3PB,DRLH,DV2W,W39B,APF0,COUS,BC3B,CH07,PC30,FC3P,FG31,GLFR,HL31,HM31,IL31,LTPB,MR31,FM3B,RS3H,SA3P,STCP,SC04,SU3C,T3CA,TW00,TM00,UT3P,WR00,AU3P,APH3,AF00,ZCST,MI00,CDM0",
-            "color": null,
-            "access_type": "OWNER",
-            "tokens": [
-                "f2c61bb1a065ad97",
-                "6c79faa9a7c1309d"
-            ],
-            "state": "online",
-            "in_service": false,
-            "id_s": "1492931176629701",
-            "calendar_enabled": true,
-            "api_version": 36,
-            "backseat_token": null,
-            "backseat_token_updated_at": null
-        }
-    ],
-    "count": 2
+  "response": [
+    {
+      "id": 1492931546942608,
+      "vehicle_id": 1377277841,
+      "vin": "5YJSA1E29JF276959",
+      "display_name": "Gizmo",
+      "option_codes": "AD15,MDL3,PBSB,RENA,BT37,ID3W,RF3G,S3PB,DRLH,DV2W,W39B,APF0,COUS,BC3B,CH07,PC30,FC3P,FG31,GLFR,HL31,HM31,IL31,LTPB,MR31,FM3B,RS3H,SA3P,STCP,SC04,SU3C,T3CA,TW00,TM00,UT3P,WR00,AU3P,APH3,AF00,ZCST,MI00,CDM0",
+      "color": null,
+      "access_type": "OWNER",
+      "tokens": [
+        "4ca9e41bfab81632",
+        "344bd42b2672c728"
+      ],
+      "state": "online",
+      "in_service": false,
+      "id_s": "1492931546942608",
+      "calendar_enabled": true,
+      "api_version": 34,
+      "backseat_token": null,
+      "backseat_token_updated_at": null
+    }
+  ],
+  "count": 1
 }
