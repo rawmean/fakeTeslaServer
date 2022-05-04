@@ -115,7 +115,7 @@
     "drive_state": {
       "gps_as_of": 1651620825,
       "heading": 252,
-      "latitude": 32.981405,
+      "latitude": 32.81405,
       "longitude": -117.238199,
       "native_latitude": 32.981405,
       "native_location_supported": 1,
